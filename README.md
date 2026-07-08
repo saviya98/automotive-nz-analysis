@@ -11,7 +11,7 @@ This project builds a complete data analysis pipeline covering:
   business structure and pricing patterns
 - Star schema database design (SQLite)
 - SQL business analysis across revenue, segments, and seasonality
-- Dashboard visualisation (Qlik) — in progress
+- Dashboard visualisation (Qlik) - https://2to3u3wx24lkakm.ap.qlikcloud.com/sense/app/1948f705-427d-4826-9492-35bd4c56facd
 
 ## Business Context
 
@@ -47,7 +47,7 @@ automotive-nz-analysis/
 │   ├── 01_branch_revenue.sql
 │   ├── 02_segment_revenue.sql
 │   └── 03_seasonal_trends.sql
-├── dashboard/         # Qlik files (coming soon)
+├── dashboard/         # Qlik files 
 ├── docs/              # Data dictionary
 └── README.md
 
@@ -93,7 +93,7 @@ customers ←─┘
 - Python 3 (pandas, numpy, Faker, SQLAlchemy)
 - SQLite
 - Jupyter Notebook
-- Qlik (dashboard phase — in progress)
+- Qlik (dashboard phase)
 
 ## Data Limitations
 
