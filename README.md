@@ -5,7 +5,7 @@ for a fictional New Zealand automotive parts distributor, modelled on
 real NZ automotive aftermarket industry patterns.
 
 ## Dashboard Preview
-https://github.com/saviya98/automotive-nz-analysis/blob/b0bb3df89789746bcc9df5a29bbaf51a03960415/Dashboard_preview.png
+![Sales Performance Overview Dashboard](Dashboard_perview.png)
 
 ## Project Overview
 
