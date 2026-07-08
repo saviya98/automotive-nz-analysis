@@ -5,7 +5,7 @@ for a fictional New Zealand automotive parts distributor, modelled on
 real NZ automotive aftermarket industry patterns.
 
 ## Dashboard Preview
-![Sales Performance Overview Dashboard](Dashboard_perview.png)
+![Sales Performance Overview Dashboard](Dashboard_preview.png)
 
 ## Project Overview
 
