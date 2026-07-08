@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Database file (auto-generated from notebooks)
+data/*.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc

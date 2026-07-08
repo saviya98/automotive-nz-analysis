@@ -1,0 +1,201 @@
+customer_id,customer_name,customer_type,region,join_date
+1,Moran and Sons,Retail,Hamilton,2025-12-06
+2,Ramsay Inc,Retail,Christchurch,2025-10-09
+3,"McLean, Oliver and O'Donnell",Independent Workshop,Christchurch,2024-08-11
+4,"Reader, Gunn and Stewart",Independent Workshop,Hamilton,2025-05-31
+5,"Evans, Turner and Morrison",Retail,Christchurch,2025-11-10
+6,Robert and Sons,Retail,Auckland,2025-07-30
+7,Payne Inc,Retail,Auckland,2024-11-14
+8,"George, Nicholson and Conway",Retail,Christchurch,2025-03-10
+9,Price-Avery,Independent Workshop,Christchurch,2025-01-29
+10,Burgess Group,Chain Mechanic,Auckland,2026-03-04
+11,"Dick, Buckley and Boniface",Retail,Auckland,2024-11-24
+12,Anderson-Brown,Independent Workshop,Auckland,2025-03-17
+13,Ryan-Tapp,Independent Workshop,Christchurch,2025-08-21
+14,Wood and Sons,Fleet Manager,Auckland,2026-02-01
+15,Smith PLC,Chain Mechanic,Auckland,2025-05-20
+16,"Bell, Waters and Anderson",Fleet Manager,Wellington,2025-11-21
+17,"Bell, Lee and Allan",Fleet Manager,Auckland,2024-10-11
+18,Jackson Ltd,Fleet Manager,Auckland,2025-05-10
+19,Rogers Group,Fleet Manager,Auckland,2025-11-02
+20,"Osborne, Crawford and O'Connor",Independent Workshop,Auckland,2026-02-14
+21,"Davidson, Mudgway and Gifford",Retail,Auckland,2025-11-03
+22,"Phillips, Pollard and Middlemiss",Chain Mechanic,Wellington,2024-08-01
+23,Donaldson-O'Donnell,Independent Workshop,Wellington,2025-04-29
+24,Cook LLC,Independent Workshop,Christchurch,2024-07-18
+25,Mudgway-Lee,Independent Workshop,Hamilton,2025-07-12
+26,Mortimer-McGill,Chain Mechanic,Christchurch,2025-02-01
+27,"Mason, Murdoch and McCormick",Retail,Wellington,2025-08-23
+28,McIntyre-Richards,Independent Workshop,Auckland,2026-02-15
+29,"May, Marshall and Perry",Chain Mechanic,Auckland,2025-10-05
+30,Stewart Group,Independent Workshop,Christchurch,2024-11-04
+31,Smith-Edwards,Retail,Auckland,2026-05-10
+32,"Atkinson, Lowe and Wallace",Independent Workshop,Auckland,2024-08-12
+33,Jones-Kenny,Independent Workshop,Auckland,2026-01-21
+34,Gledhill-Hook,Independent Workshop,Auckland,2025-07-11
+35,"Simpson, McKay and Reid",Fleet Manager,Wellington,2025-05-12
+36,McIsaac LLC,Fleet Manager,Wellington,2024-09-28
+37,Sinclair-Allerby,Independent Workshop,Wellington,2026-01-19
+38,"Anderson, Beard and Stratford",Independent Workshop,Auckland,2025-07-10
+39,Ireland-Williams,Independent Workshop,Wellington,2025-02-25
+40,Jamieson Group,Chain Mechanic,Wellington,2024-12-28
+41,Wallace Ltd,Independent Workshop,Auckland,2026-04-25
+42,Satherley-Dawson,Chain Mechanic,Hamilton,2024-11-26
+43,Adams-Larsen,Retail,Auckland,2024-11-24
+44,Harper Inc,Independent Workshop,Wellington,2025-03-05
+45,Howard-Williams,Chain Mechanic,Auckland,2024-10-16
+46,McDonald and Sons,Retail,Christchurch,2024-12-09
+47,McLeod-Holland,Chain Mechanic,Auckland,2025-05-08
+48,Smith PLC,Independent Workshop,Auckland,2024-09-10
+49,Morris-Webb,Independent Workshop,Wellington,2026-05-20
+50,Wells-Scott,Retail,Auckland,2025-12-28
+51,Duncan Inc,Independent Workshop,Wellington,2025-07-20
+52,Waghorn-Henderson,Independent Workshop,Wellington,2025-05-26
+53,Buick and Sons,Chain Mechanic,Auckland,2026-04-03
+54,McGregor PLC,Chain Mechanic,Auckland,2025-06-23
+55,Anderson LLC,Retail,Christchurch,2026-01-19
+56,Spelman-Lawson,Independent Workshop,Auckland,2025-06-13
+57,Oliver and Sons,Independent Workshop,Hamilton,2025-02-06
+58,Davidson-Davenport,Chain Mechanic,Auckland,2026-04-02
+59,"Fuller, Smith and Buchanan",Independent Workshop,Christchurch,2024-09-20
+60,Murdoch PLC,Chain Mechanic,Christchurch,2025-05-22
+61,Stuart-Gleeson,Chain Mechanic,Hamilton,2025-01-04
+62,"Millard, Johnston and Shaw",Chain Mechanic,Hamilton,2025-03-29
+63,Smith LLC,Retail,Wellington,2025-03-14
+64,"Furness, Claridge and Bull",Retail,Wellington,2026-03-23
+65,"Newton, Casey and McMillan",Retail,Wellington,2025-02-02
+66,"McKenna, Caldwell and Aberhart",Retail,Christchurch,2025-05-14
+67,Baker Ltd,Chain Mechanic,Auckland,2025-02-08
+68,"McIntosh, Turner and Johansen",Independent Workshop,Wellington,2025-01-16
+69,Watts PLC,Retail,Wellington,2026-05-01
+70,Laurenson Group,Chain Mechanic,Auckland,2025-11-11
+71,"Morrison, Guard and Rasmussen",Independent Workshop,Auckland,2025-07-18
+72,"Wratt, Edmonds and Turner",Independent Workshop,Auckland,2025-09-17
+73,Adams-Armstrong,Chain Mechanic,Auckland,2026-05-04
+74,Joe-Graham,Independent Workshop,Wellington,2026-06-18
+75,"O'Brien, Neal and Taylor",Retail,Auckland,2025-03-22
+76,"Murdoch, Collis and Olsen",Independent Workshop,Wellington,2024-07-18
+77,"Blackwell, Pope and Gill",Independent Workshop,Auckland,2026-05-01
+78,"Alve, Hawkins and Jackson",Independent Workshop,Hamilton,2026-02-02
+79,Knight Ltd,Chain Mechanic,Wellington,2024-10-09
+80,Gullery-Ryan,Retail,Christchurch,2025-06-26
+81,"Jensen, Jefferies and Dixon",Independent Workshop,Auckland,2026-02-21
+82,Butcher-Freeth,Independent Workshop,Christchurch,2025-09-19
+83,"Mitchell, Burke and Jackson",Retail,Hamilton,2026-02-08
+84,"Freeth, Fowler and Phillips",Independent Workshop,Christchurch,2025-02-03
+85,Humphrey-Williams,Chain Mechanic,Wellington,2024-07-31
+86,O'Donnell PLC,Independent Workshop,Auckland,2026-05-30
+87,Furness-O'Connor,Independent Workshop,Auckland,2026-03-05
+88,Avery-Patchett,Independent Workshop,Wellington,2025-08-31
+89,Jenkins-Cooksley,Independent Workshop,Auckland,2026-04-23
+90,Scott Ltd,Chain Mechanic,Auckland,2024-08-06
+91,"Morrison, Cresswell and Brown",Chain Mechanic,Auckland,2025-03-12
+92,Manson-Thomas,Independent Workshop,Wellington,2025-02-21
+93,Reardon LLC,Independent Workshop,Wellington,2026-07-04
+94,Stewart LLC,Independent Workshop,Wellington,2025-06-08
+95,"McDowall, Peters and Cunningham",Independent Workshop,Auckland,2026-03-05
+96,Lawson-Russell,Independent Workshop,Auckland,2026-01-28
+97,Spencer Inc,Retail,Auckland,2024-11-13
+98,Riley-Hansen,Retail,Christchurch,2025-01-18
+99,"Waller, Smith and Kennedy",Independent Workshop,Auckland,2026-05-09
+100,"Hayward, O'Neill and Mason",Independent Workshop,Wellington,2025-06-06
+101,"Davis, Martin and Morris",Fleet Manager,Auckland,2024-10-13
+102,Miller Ltd,Chain Mechanic,Christchurch,2025-04-18
+103,Jellyman-Smith,Chain Mechanic,Christchurch,2024-10-03
+104,"Walsh, George and Booker",Fleet Manager,Auckland,2025-06-20
+105,Buckley-Wong,Independent Workshop,Auckland,2024-11-18
+106,Page Group,Independent Workshop,Wellington,2025-07-03
+107,Wells-Knowles,Chain Mechanic,Auckland,2026-05-16
+108,"Harper, Pearson and Simpson",Chain Mechanic,Christchurch,2025-04-21
+109,"Huddleston, Zimmerman and Walton",Independent Workshop,Wellington,2026-01-26
+110,"Cameron, Moore and Freeman",Retail,Auckland,2024-09-16
+111,Thompson-Griffiths,Retail,Hamilton,2025-08-30
+112,McLeod-Thompson,Independent Workshop,Auckland,2026-04-14
+113,Hutchinson-Shannon,Independent Workshop,Wellington,2026-05-25
+114,Freeman and Sons,Fleet Manager,Auckland,2025-07-20
+115,Evans-Gray,Retail,Auckland,2025-07-10
+116,Green-Higgins,Chain Mechanic,Wellington,2025-04-15
+117,Satherley Inc,Independent Workshop,Christchurch,2025-05-26
+118,"Ryan, Olsen and Clunies-Ross",Retail,Wellington,2024-11-17
+119,Grant Inc,Independent Workshop,Hamilton,2024-12-25
+120,Gibb-Burke,Retail,Auckland,2024-07-29
+121,Thomas-Day,Independent Workshop,Auckland,2026-04-19
+122,Oliver-Williams,Chain Mechanic,Auckland,2026-06-07
+123,Smith-Turner,Retail,Christchurch,2025-05-05
+124,"Patchett, McGregor and Burton",Independent Workshop,Hamilton,2025-03-25
+125,Carroll-Wallace,Chain Mechanic,Christchurch,2025-10-08
+126,Smith-Fuller,Retail,Auckland,2024-12-06
+127,Fenton-Davey,Retail,Hamilton,2024-07-10
+128,Davis-Cameron,Independent Workshop,Christchurch,2024-10-23
+129,Mitchell-Thompson,Chain Mechanic,Wellington,2024-07-11
+130,Scott-McCarthy,Independent Workshop,Christchurch,2024-11-04
+131,Reeves Ltd,Independent Workshop,Christchurch,2026-04-26
+132,Graham-Whyte,Retail,Auckland,2026-06-03
+133,McMillan Ltd,Retail,Auckland,2024-07-21
+134,Boyce and Sons,Chain Mechanic,Wellington,2024-12-24
+135,McEwen Inc,Independent Workshop,Auckland,2026-01-22
+136,Jellyman LLC,Retail,Auckland,2026-01-15
+137,Fisher-Nash,Independent Workshop,Christchurch,2025-10-05
+138,"Morrison, Gibbons and Ward",Independent Workshop,Christchurch,2026-06-05
+139,Brown-Jensen,Retail,Auckland,2025-06-03
+140,"McCormick, McKay and Taylor",Independent Workshop,Hamilton,2025-02-26
+141,Coley-Sutton,Independent Workshop,Christchurch,2025-03-17
+142,Ireland-Harris,Chain Mechanic,Christchurch,2026-01-25
+143,"Henderson, Miller and McDonald",Chain Mechanic,Wellington,2025-07-10
+144,"Carroll, Low and Martin",Chain Mechanic,Christchurch,2024-07-29
+145,Hooper-Graham,Independent Workshop,Auckland,2026-01-05
+146,Williamson-Greig,Chain Mechanic,Auckland,2025-07-30
+147,"Sutton, Murphy and Smith",Chain Mechanic,Wellington,2026-01-19
+148,Marshall-Dickson,Chain Mechanic,Auckland,2025-09-27
+149,Gray-Ramsay,Retail,Auckland,2025-07-25
+150,McLean Group,Retail,Auckland,2026-05-01
+151,"Hoare, Cook and Hughes",Independent Workshop,Auckland,2025-04-28
+152,Newman and Sons,Independent Workshop,Auckland,2025-01-24
+153,"Holdaway, Gledhill and Harper",Chain Mechanic,Christchurch,2026-06-11
+154,"Pollard, Williams and Logan",Independent Workshop,Auckland,2026-03-05
+155,Brown-Clarke,Chain Mechanic,Christchurch,2025-09-18
+156,"Scott, Jackson and Scott",Fleet Manager,Wellington,2026-01-11
+157,Sutton-Taylor,Independent Workshop,Auckland,2026-05-12
+158,Fenton and Sons,Independent Workshop,Auckland,2024-11-11
+159,"Hawkins, Marshall and Williams",Independent Workshop,Auckland,2025-02-28
+160,Irving-Taylor,Chain Mechanic,Auckland,2026-02-01
+161,"Foot, Schwass and Morgan",Fleet Manager,Wellington,2024-07-14
+162,Pope PLC,Chain Mechanic,Auckland,2025-05-12
+163,Burgess-Patchett,Retail,Wellington,2025-05-16
+164,Mercer Ltd,Retail,Wellington,2024-12-22
+165,O'Connor and Sons,Chain Mechanic,Auckland,2026-02-25
+166,"Kennedy, Woolley and Gill",Independent Workshop,Auckland,2025-04-03
+167,Barnes Group,Fleet Manager,Wellington,2025-07-15
+168,Griffin-Wills,Retail,Auckland,2026-04-27
+169,Williams-Fowler,Independent Workshop,Wellington,2025-10-04
+170,"Smith, Edwards and Barnett",Independent Workshop,Auckland,2025-03-14
+171,"Hopkins, Taylor and Knight",Chain Mechanic,Auckland,2025-12-02
+172,Moore-O'Brien,Fleet Manager,Auckland,2024-07-18
+173,Allen-Taylor,Retail,Wellington,2026-03-13
+174,"Matthews, McKinnon and Owen",Retail,Auckland,2025-08-07
+175,"Findlay, Moore and Davey",Chain Mechanic,Wellington,2025-08-04
+176,Manson-MacKenzie,Independent Workshop,Christchurch,2024-12-18
+177,"Hart, McFarlane and Giles",Fleet Manager,Auckland,2025-07-22
+178,Murphy-Forrest,Chain Mechanic,Wellington,2024-10-04
+179,Jones-Freeman,Retail,Hamilton,2026-03-22
+180,Cameron-Anderson,Independent Workshop,Auckland,2025-11-15
+181,"Paterson, Webster and Elliott",Chain Mechanic,Auckland,2026-02-13
+182,Smith-Taylor,Independent Workshop,Auckland,2025-12-01
+183,Batchelar Inc,Independent Workshop,Wellington,2025-10-16
+184,O'Connell-Nolan,Chain Mechanic,Auckland,2025-09-30
+185,"Healy, Spencer and Trask",Independent Workshop,Christchurch,2025-08-09
+186,"Davidson, McLeod and Eden",Retail,Wellington,2026-04-30
+187,Jones PLC,Chain Mechanic,Hamilton,2024-09-03
+188,Bruce Group,Retail,Wellington,2025-03-02
+189,Crawford-Zimmerman,Chain Mechanic,Hamilton,2025-02-10
+190,Funnell Inc,Independent Workshop,Wellington,2025-06-06
+191,"Smith, Wheeler and Ferguson",Chain Mechanic,Hamilton,2025-04-03
+192,Beattie-Webb,Retail,Auckland,2026-03-22
+193,"Allan, Strawbridge and Smith",Independent Workshop,Auckland,2025-12-27
+194,"Rush, Davies and O'Neill",Retail,Wellington,2025-10-17
+195,Christiansen Inc,Independent Workshop,Auckland,2024-11-17
+196,Francis PLC,Chain Mechanic,Wellington,2025-10-11
+197,"Taylor, Sinclair and Jackson",Fleet Manager,Wellington,2026-05-15
+198,"Tait, MacDonald and Boon",Chain Mechanic,Auckland,2024-12-04
+199,Chapman and Sons,Independent Workshop,Auckland,2024-10-17
+200,"MacDonald, Clarke and Currie",Independent Workshop,Auckland,2025-07-25

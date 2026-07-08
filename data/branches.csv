@@ -1,0 +1,11 @@
+branch_id,branch_name,brand,region,segment
+1,BNT Auckland Central,BNT,Auckland,Trade
+2,BNT Christchurch,BNT,Christchurch,Trade
+3,BNT Wellington,BNT,Wellington,Trade
+4,Autolign Auckland,Autolign,Auckland,Specialist Wholesale
+5,Autolign Wellington,Autolign,Wellington,Specialist Wholesale
+6,HCB Technologies Auckland,HCB,Auckland,Specialist Wholesale
+7,Battery Town Auckland,Battery Town,Auckland,Service
+8,Battery Town Hamilton,Battery Town,Hamilton,Service
+9,Diesel Distributors AKL,Diesel Dist,Auckland,Specialist Wholesale
+10,BNT Hamilton,BNT,Hamilton,Trade
