@@ -4,6 +4,9 @@ An end-to-end data analysis portfolio project simulating sales analytics
 for a fictional New Zealand automotive parts distributor, modelled on
 real NZ automotive aftermarket industry patterns.
 
+## Dashboard Preview
+https://github.com/saviya98/automotive-nz-analysis/blob/b0bb3df89789746bcc9df5a29bbaf51a03960415/Dashboard_preview.png
+
 ## Project Overview
 
 This project builds a complete data analysis pipeline covering:
