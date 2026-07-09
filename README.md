@@ -14,7 +14,7 @@ This project builds a complete data analysis pipeline covering:
   business structure and pricing patterns
 - Star schema database design (SQLite)
 - SQL business analysis across revenue, segments, and seasonality
-- Dashboard visualisation (Qlik) - https://2to3u3wx24lkakm.ap.qlikcloud.com/sense/app/1948f705-427d-4826-9492-35bd4c56facd
+- Interactive dashboard built in Qlik Cloud Analytics - https://2to3u3wx24lkakm.ap.qlikcloud.com/sense/app/1948f705-427d-4826-9492-35bd4c56facd
 
 ## Business Context
 
@@ -31,14 +31,43 @@ and Hamilton, weighted by real NZ regional population distribution.
 
 ## Key Findings
 
-- Specialist Wholesale generates 40.7% of total revenue from 4 branches,
-  outperforming Trade despite equal branch count
-- Battery revenue more than doubles in NZ winter (Jun–Aug), peaking
-  in August — aligned with cold-weather battery failure patterns
-- Filter revenue peaks in summer (Jan–Feb) aligned with increased
-  service intervals during the driving season
+- Specialist Wholesale generated 40.7% of total revenue from just 4
+  branches, outperforming Trade despite equal branch count
+- Battery revenue more than doubled in NZ winter months — peaking in
+  August at $165k monthly revenue compared to $113k in December,
+  driven by cold-weather battery failure patterns
+- Filter revenue peaked in summer (Jan–Feb) aligned with increased
+  service intervals during the driving season — the inverse of the
+  battery pattern
 - Diesel and specialist parts branches ranked highest in revenue despite
-  lower order volumes — driven by high unit prices per transaction
+  similar order volumes to trade branches — driven by significantly
+  higher unit prices per transaction
+- Suspension - Pedders and Batteries - Century were the top two revenue
+  generating product-brand combinations, contributing ~$285k and ~$265k
+  respectively
+- BNT Auckland Central ranked below the $162.78k company average
+  despite being the flagship trade branch — suggesting a potential
+  customer mix or pricing issue worth investigating
+- Average order value across all branches was $325.56 — consistent with
+  a B2B trade customer base rather than retail
+
+## Dashboard
+
+Built in Qlik Cloud Analytics with the following components:
+
+- **KPI cards** — Total Revenue ($1.63M), Total Orders (5k), Average
+  Order Value ($325.56)
+- **Branch Revenue vs Company Average** — bar chart with $162.78k
+  benchmark reference line identifying over and underperforming branches
+- **Top 10 Products by Revenue** — horizontal bar chart ranked by
+  Sum(revenue) using Qlik dimension limitation
+- **Revenue by Segment** — donut chart showing Trade/Wholesale/Service
+  split
+- **Monthly Revenue Trend** — line chart showing seasonal patterns
+  across 24 months
+- **Interactive filter panes** — Region, Segment, Product Category
+  filters driving the full associative data model
+
 
 ## Project Structure
 automotive-nz-analysis/
@@ -65,6 +94,7 @@ automotive-nz-analysis/
    `pip install pandas faker numpy jupyter sqlalchemy`
 5. Run `01_data_generation.ipynb` to generate all CSV files
 6. Run `02_sql_analysis.ipynb` to load the database and run queries
+7. Load the 4 CSV files from the data folder into Qlik Cloud Analytics
 
 ## Data Model
 
@@ -85,18 +115,18 @@ customers ←─┘
 
 ## SQL Analyses Completed
 
-| Query | Business Question |
-|---|---|
-| 01_branch_revenue | Which branches generate the most revenue? |
-| 02_segment_revenue | How does revenue break down by business segment? |
-| 03_seasonal_trends | Which months drive peak demand by product category? |
+| Query | Business Question | Key Finding |
+|---|---|---|
+| 01_branch_revenue | Which branches generate the most revenue? | Diesel Distributors Auckland ranked #1 at $180k |
+| 02_segment_revenue | How does revenue break down by business segment? | Specialist Wholesale leads at 40.7% |
+| 03_seasonal_trends | Which months drive peak demand by product category? | Which months drive peak demand by category? | Battery revenue peaks in August, filters peak in January |
 
 ## Tools and Technologies
 
 - Python 3 (pandas, numpy, Faker, SQLAlchemy)
 - SQLite
 - Jupyter Notebook
-- Qlik (dashboard phase)
+- Qlik Cloud Analytics
 
 ## Data Limitations
 
@@ -108,11 +138,12 @@ customers ←─┘
   per product category
 - Date range extends slightly beyond the intended 2024–2025 window
   due to Faker date generation behaviour — noted and documented
+- Qlik synthetic key conflicts on region and brand fields were resolved
+  by renaming fields in the load script using AS aliases
 
 ## Author
 
 Savith Dissanayakage
 Master of Information Technology (Distinction)
-Eastern Institute of Technology Auckland
 [LinkedIn](https://www.linkedin.com/in/savithdissanayake)
 [GitHub](https://github.com/saviya98)
